@@ -13,7 +13,6 @@ public class Linear_search {
 
 
         System.out.println(findallindex2(arr,12,0));
-        // HELLO WORLd
 
     }
 
