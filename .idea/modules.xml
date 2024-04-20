@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Binaryy_search/Binaryy_search.iml" filepath="$PROJECT_DIR$/Binaryy_search/Binaryy_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bubble_sort/Bubble_sort.iml" filepath="$PROJECT_DIR$/Bubble_sort/Bubble_sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conditions and loops/Conditions and loops.iml" filepath="$PROJECT_DIR$/Conditions and loops/Conditions and loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cyclic_sort/Cyclic_sort.iml" filepath="$PROJECT_DIR$/Cyclic_sort/Cyclic_sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Insertion_sort/Insertion_sort.iml" filepath="$PROJECT_DIR$/Insertion_sort/Insertion_sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_Programming.iml" filepath="$PROJECT_DIR$/.idea/Java_Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Merge_sort/Merge_sort.iml" filepath="$PROJECT_DIR$/Merge_sort/Merge_sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS/OOPS.iml" filepath="$PROJECT_DIR$/OOPS/OOPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursions/Recursions.iml" filepath="$PROJECT_DIR$/Recursions/Recursions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Selection_Sort/Selection_Sort.iml" filepath="$PROJECT_DIR$/Selection_Sort/Selection_Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/arrays.iml" filepath="$PROJECT_DIR$/arrays/arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/functions/functions.iml" filepath="$PROJECT_DIR$/functions/functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linear_search/linear_search.iml" filepath="$PROJECT_DIR$/linear_search/linear_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/main/main.iml" filepath="$PROJECT_DIR$/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion array questions/recursion array questions.iml" filepath="$PROJECT_DIR$/recursion array questions/recursion array questions.iml" />
+    </modules>
+  </component>
+</project>

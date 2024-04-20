@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fee5b910-8dfe-4a52-9b5e-aab26bbff7c7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Cyclic_sort/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cyclic_sort/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cyclic_sort/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cyclic_sort/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cyclic_sort/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cyclic_sort/src/FindAllDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cyclic_sort/src/FindAllMissing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cyclic_sort/src/FindDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cyclic_sort/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cyclic_sort/src/Missing_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Insertion_sort/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Insertion_sort/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Insertion_sort/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Insertion_sort/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Insertion_sort/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Insertion_sort/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Merge_sort/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Merge_sort/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Merge_sort/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Merge_sort/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Merge_sort/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursions/src/DigitProd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursions/src/Digitsum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursions/src/Fact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursions/src/Fibo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursions/src/Nto1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursions/src/Numberofzeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursions/src/ReverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursions/src/leetcode1342.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursion array questions/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursion array questions/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursion array questions/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursion array questions/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursion array questions/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binaryy_search/Binaryy_search.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binaryy_search/src/First_last_pos_BS.java" beforeDir="false" afterPath="$PROJECT_DIR$/Binaryy_search/src/First_last_pos_BS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binaryy_search/src/First_last_pos_LBUB.java" beforeDir="false" afterPath="$PROJECT_DIR$/Binaryy_search/src/First_last_pos_LBUB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bubble_sort/Bubble_sort.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditions and loops/Conditions and loops.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Merge_sort/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Merge_sort/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPS/OOPS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursions/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Recursions/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Recursions/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursions/Recursions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursions/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Recursions/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursions/src/Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Recursions/src/Numbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selection_Sort/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Selection_Sort/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selection_Sort/Selection_Sort.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrays/arrays.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrays/src/com/Samyak/Reversearray.java" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/src/com/Samyak/Reversearray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/functions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/linear_search/linear_search.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursion array questions/src/Linear_search.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursion array questions/src/Linear_search.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2fMJQ4OuGNHPBBCzYiuwVmClYEs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/samyakgupta/Library/Mobile Documents/com~apple~CloudDocs/java_dsa/Java_Programming",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fee5b910-8dfe-4a52-9b5e-aab26bbff7c7" name="Changes" comment="" />
+      <created>1713604994865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713604994865</updated>
+      <workItem from="1713604995966" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
