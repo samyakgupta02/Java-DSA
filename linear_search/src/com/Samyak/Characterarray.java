@@ -8,7 +8,7 @@ public class Characterarray {
         String name = "Samyak";
         char target = 't';
         System.out.println(searchchar(name, target));
-        // we are searching whether u exist in the string or not
+        // we are searching whether exist in the string or not
 
     }
 
